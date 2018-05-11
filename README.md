@@ -1,10 +1,10 @@
-# docker-deeplearning
+# deep-docker
 
 > For running deeplearning experiments on AWS EC2 g2.2xlarge advised or bigger with
 > Docker and Docker machine
 
 This image includes
-
+- Optimized Python 3.6 for Docker, find out more there [https://www.revsys.com/tidbits/optimized-python/]
 - Nvidia driver 346.46
 - CUDA 7.0
 - Anaconda 3.18.8 (Python 2.7.11)
